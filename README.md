@@ -1,18 +1,3 @@
-#            Admission Prediction using Machine Learning
-
- [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-![image.jpg](https://github.com/Kamesh-Mishra/Admission-Prediction-using-ML/blob/master/images/image.jpg)
-
-# LIBRARIES USED:
-
-<P>
-- PANDAS<br> 
-- SEABORN<br>
-- MATPLOTLIB<br> 
-- SKLEARN<br>
-- PICKLE<br>
-</P>
 
 ## DATA DESCRIPTION:
 
